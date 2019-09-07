@@ -1,0 +1,98 @@
+---
+title: "First Knit"
+author: "Your Name"
+date: "Date, 2019"
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+---
+
+### `r as.character(Sys.Date())`
+
+
+# A Little Survey
+
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. Half the points in this assignment depend on your picture and name being correct!!  Be sure to put your photo in the AAA_Owner_Info folder and call it My_photo.jpg after first renaming the current one to Koala.jpg . 
+
+##Where are you now?  
+What row are you in, front,middle or back?  Do you usually choose a similiar row in other classes? What is the computer number where you are sitting?  How on a scale of 1 to 10 (1=low, 10=high) How you feel about periodic seat re-assignment, say how and why. Teams, have you ever worked on one in a class setting?  
+
+###my answer     
+  
+   
+ I am sitting down 3rd middle row trying to make r studio work close to an outlet. 
+Yes, I typically sit next to a wall outlet in case I need to charge my phone or computer. 
+ There is no computer number in this classroom.  
+I feel 1(low) on periodic seat reassignment, since we are in higher education and have the freedom to sit where we want. 
+Yes, I have worked in a team on a classroom setting.  
+ 
+ 
+
+
+##Others and You?   
+What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want me to call you something else - what would that be? 
+
+###my answer     
+  
+Andrew Contreras   
+ 
+
+
+
+
+##Aspirations?   
+What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
+
+###my answer     
+  
+I would like to achieve success and happiness. I will be able to see what that is when I reach it. I will continue to strive to the next level, and continue to invest in myself to remove obstacles that hinder my success. I was a communication major for my undergraduate degree, and currently an operations manager for a fortune 50 company. I believe that a MGMT college subject would be the greatest interest and investment. I am trying to achieve an MBA degree.    
+ 
+
+
+
+
+##Past adventures?  
+Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
+
+###my answer     
+I have never been to a foreign country, but I would love to visit New Zealand. 
+I have not been in the military, but if I was to be in the military. I would join the air force, knowing that I would be an officer and air force is one of the most prestigious military branches. 
+   
+  
+
+
+
+
+##Why are you taking Math 115?  
+ 
+ 
+
+###my answer     
+  
+What grade do you need to attain in stats to not upset your future plans, What is your plan?
+I need to attain an A to remain in the MBA path with a 3.0 degree and an A will also mean that I understand the course and will be able to apply it to day to day operations.    
+ 
+
+
+
+
+
+##Homework Help and Getting around?  
+On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  Do you have a computer you can use at home? If so, what kind is it (windows, Apple, Linux)? Do you have internet access at home?  
+How do you get to class? Are there issues that limit when you can be at the college?Where and when did you attend high school?  Do you currently have a job?
+
+###my answer   
+I would rate myself a 5. 5 being an average computer user, when I was in 8th grade I built a computer and installed a Linux program. I also wanted to be a computer engineer, but was not ready to take 6 years of math before graduating. 
+I have multiple computers both windows and Apple. I currently use my Apple computer for school and windows for work. 
+I do have internet access at home. 
+I have a reliable car for transportation and there are no issues that limit me to college. 
+I attended high school in Bakersfield at Frontier High School. 
+I am currently employed at Target Corp for their Supply Chain Division as on Operations Manager/Production Controller. 
+   
+  
+## critique of the AI in business article 
+
+AI has the potential to play a critical role in all organizations. The reason it is not being used to its full potential, is that there’s a fear of change related to this. Organizations are in fear of the change and mistakes that AI can potentially bring. While the organizations that have used AI and included the feedback necessary to improve AI. These organizations have seen the efficiencies coming out AI. I believe organizations should have a team dedicated to AI to build a bridge between AI and business. Then pilot it out to a specific department and receive feedback to improve future versions.
+
+
